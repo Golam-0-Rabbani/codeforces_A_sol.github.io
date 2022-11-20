@@ -1,7 +1,7 @@
 
-# Codeforces rating-800
+# Codeforce rating-800
 
-This is project for codeforces BEGGINER problem solvers
+This is a project for codeforces BEGGINER problem solvers
 rating 800
 
 

@@ -1,5 +1,5 @@
 
-# Codeforces 800 rating Solution
+# Codeforces rating-800
 
 This is project for codeforces BEGGINER problem solvers
 rating 800
@@ -12,4 +12,3 @@ C++,JS
 ## Features
 
 - Easiest solution you ever have
--Feedback option
